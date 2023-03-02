@@ -2,12 +2,10 @@
 
 ## 🌱 I’m currently learning:
   1. C++,
-  2. NodeJS,
+  2. C#
   3. Python,
   4. Swift
 
-###### How to reach me:
-  - Discord: Empezeeet#8540
         
         
 
