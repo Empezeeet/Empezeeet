@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning ...
 1. C++
-2. Python
-3. JavaScript
+2. JavaScript
+3. Python
 <!--
 **Empezeeet/Empezeeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
