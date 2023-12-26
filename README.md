@@ -1,8 +1,7 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning ...
-1. C++
-2. JavaScript
-3. Python
+1. Java
+2. C++
 ## 📫 How to reach me:
 pawelkomateusz(at)gmail.com
 <!--
