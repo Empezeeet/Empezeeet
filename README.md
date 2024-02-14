@@ -2,6 +2,8 @@
 ## 🌱 I’m currently learning ...
 1. Java
 2. C++
+## I’m currently working on ...
+ iOS App (Full Stack)
 ## 📫 How to reach me:
 pawelkomateusz(at)gmail.com
 <!--
