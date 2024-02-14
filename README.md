@@ -3,7 +3,7 @@
 1. Java
 2. C++
 ## I’m currently working on ...
- iOS App (Full Stack)
+ Motobook (Fullstack iOS App)
 ## 📫 How to reach me:
 pawelkomateusz(at)gmail.com
 <!--
