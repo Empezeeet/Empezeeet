@@ -3,7 +3,7 @@
 1. Java
 2. C++
 ## I’m currently working on ...
- Motobook (Fullstack iOS App)
+ D&D Dungeon Master App
 ## 📫 How to reach me:
 pawelkomateusz(at)gmail.com
 <!--
