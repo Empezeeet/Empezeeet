@@ -1,9 +1,11 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning ...
-1. Java
-2. C++
+1. Swift (SwiftUI)
+2. Java
+3. C++
 ## I’m currently working on ...
  [D&D Dungeon Master App](https://empezeeet.github.io/DnD-MasterApp/)
+ Motobook iOS App
 ## 📫 How to reach me:
 pawelkomateusz(at)gmail.com
 <!--
