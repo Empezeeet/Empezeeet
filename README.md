@@ -4,8 +4,8 @@
 2. Java
 3. C++
 ## I’m currently working on ...
- [D&D Dungeon Master App](https://empezeeet.github.io/DnD-MasterApp/)
- Motobook iOS App
+    Chess written in C++ using SDL. 
+ 
 ## 📫 How to reach me:
 
 <!--
