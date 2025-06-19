@@ -1,13 +1,9 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning ...
-1. Swift (SwiftUI)
-2. Java
-3. C++
-## I’m currently working on ...
-    Chess written in C++ using SDL. 
+- **C++**
+## 🔭 I’m currently working on ...
+- [@BLU2Dengine](https://github.com/BLU2D-Engine) - 2D Game engine written in C++ using [SDL2](https://www.libsdl.org/)
  
-## 📫 How to reach me:
-
 <!--
 **Empezeeet/Empezeeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
