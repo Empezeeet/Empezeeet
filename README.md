@@ -2,7 +2,7 @@
 ## 🌱 I’m currently learning ...
 - **C++**
 ## 🔭 I’m currently working on ...
-- [vex.Engine](https://github.com/VexEngine) - 2D Game engine written in C++ using [SDL2](https://www.libsdl.org/)
+- iOS App for managing car expenses.
  
 <!--
 **Empezeeet/Empezeeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
